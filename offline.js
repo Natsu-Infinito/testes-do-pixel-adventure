@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1673566148,
+	"version": 1673808766,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,7 +67,6 @@
 		"images/menuscript_characterselected.png",
 		"images/menu_selectarrow-sheet0.png",
 		"images/loading_point1-sheet0.png",
-		"images/tile_caveground.png",
 		"images/obj_portalcollision-sheet0.png",
 		"images/obj_portalcollision2-sheet0.png",
 		"images/obj_portalcollision3-sheet0.png",
